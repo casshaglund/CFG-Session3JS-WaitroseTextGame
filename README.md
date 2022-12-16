@@ -1,2 +1,2 @@
 # CFG-JS-WaitroseTextGame
-    <a href="https://cassandrahaglund-jstextgame.netlify.app/">Hosted on Netlify</a>
+<a href="https://cassandrahaglund-jstextgame.netlify.app">Hosted on Netlify</a>
